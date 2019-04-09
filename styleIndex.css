@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+#latabla{
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+#r1{
+width: 500px;
+height: 200px;
+}
+#r2{
+width: 500px;
+height: 400px;
+}
+#t1{
+width: 1200px;
+height: 300px;
+}
+#t2{
+width: 1200px;
+height: 500px;
+}
